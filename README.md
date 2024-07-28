@@ -1,4 +1,4 @@
 # Demo_project
-I tried this project from W3school
+I solved this problem from W3School using HTML and CSS.
 <br>
 Author: Sabika Afrin
